@@ -6,6 +6,7 @@ Welcome to my GitHub!
 I’m a final-year medical student at the University of Ibadan, passionate about exploring the intersection of healthcare, data science, and intelligent systems. My work spans AI in healthcare, data analytics, clinical research, and agent-based systems, with a strong interest in building solutions that improve patient outcomes and enhance medical workflows.
 
 🚀 What I Do
+
 👨🏽‍💻 Data & AI Engineering
 
 Skilled in Python, PostgreSQL, machine learning, and AI agents.
