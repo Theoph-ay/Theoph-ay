@@ -1,85 +1,59 @@
-👋 Hi, I’m Theophilus Olayiwola
+#  Theophilus Olayiwola | Med-AI & ML Engineer
+**Final Year Medical Student (MBBS 2027) |Data Analyst | AI/ML Engineer | Python Mentor**
 
-🧑🏽‍⚕️ Medical Student | AI & Machine Learning Enthusiast | Data Scientist (Python & SQL) | Research Assistant | Tech Community Leader
+I bridge the gap between clinical medicine and scalable Artificial Intelligence. Currently focused on **Stroke Management** and **Cardiothoracic Surgery** diagnostics, I build production-ready ML systems that prioritize clinical accuracy and computational efficiency.
 
-Welcome to my GitHub!
-I’m a final-year medical student at the University of Ibadan, passionate about exploring the intersection of healthcare, data science, and intelligent systems. My work spans AI in healthcare, data analytics, clinical research, and agent-based systems, with a strong interest in building solutions that improve patient outcomes and enhance medical workflows.
+---
 
-🚀 What I Do
+###  Quick Stats
+* **Clinical Focus:** Stroke Management, Cardiothoracic Surgery, AI-driven Diagnostics.
+* **Tech Stack:** Python (Expert), PyTorch, Scikit-Learn, SQL, FastAPI, LangChain.
+* **Current Research:** AI in Healthcare (Duke Global Health Institute funded).
+* **Recent Achievement:** Graduate of Meta AI Developer Academy (Dec 2025).
 
-👨🏽‍💻 Data & AI Engineering
+---
 
-Skilled in Python, PostgreSQL, machine learning, and AI agents.
+### 🛠️ Technical Toolkit
 
-Experienced with BeautifulSoup, data pipelines, analytics dashboards, and model experimentation.
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Machine Learning** | PyTorch, Scikit-learn, HuggingFace, RAG Architectures |
+| **Data Engineering** | SQL, Pandas, NumPy, Tableau |
+| **Deployment/Ops** | FastAPI, Streamlit, LangGraph, Git/GitHub |
+| **Clinical AI** | Medical Image Analysis, Electronic Health Record (EHR) Processing |
 
-Currently taking the Kaggle 5-Day AI Agent course and Meta and RAIN AI Developer Academy Programme, building towards deployable agentic systems.
+---
 
-🩺 Clinical & Research Work
+### 🧬 Featured Projects
 
-Research assistant on a project applying AI techniques in healthcare.
+#### **[MedScribe AI](https://github.com/theophilus-olayiwola/medscribe-ai)**
+*A multimodal medical assistant for real-time clinical documentation and decision support.*
+* **Tech:** LangChain, Google Gemini API, FastAPI.
+* **Impact:** Built for the Google/Kaggle Hackathon; streamlines EHR entry for clinicians.
+  
 
-Experienced with patient clerking, clinical analysis, and medical documentation.
+#### **[Board-Exam RAG Agent](https://github.com/theophilus-olayiwola/mb_assistant)**
+*A specialized LLM agent designed to help medical students prep for boards.*
+* **Tech:** LangGraph, RAG (Retrieval-Augmented Generation), PubMed API integration.
+* **Logic:** Uses a "Logic First" approach to retrieve evidence-based answers.
 
-📊 Data Analysis
+---
 
-Completed Associate Data Analyst (SQL) and Data Analyst (Python) tracks on DataCamp.
+### 📚 Research & Mentorship
+* **Mentorship:** I serve as a **Python Mentor**, advocating for "Readability over Cleverness." I specialize in breaking down complex ML concepts for beginners using a **Logic-First** methodology.
+* **Global Health:** Actively involved in internationally funded research exploring how robotics and nanobots can transform cardiothoracic surgical outcomes.
 
-Actively working on real-world analytics — including freelancing and available for jobs.
+---
 
-🛠️ Projects & Areas I'm Building In
+###  Creative Side
+When I'm not in the wards or the terminal, I write **atmospheric, character-driven horror**. I believe the discipline of storytelling improves the way we design user-centric AI agents.
 
-AI-powered agent (with frontend/backend integration).
+---
 
-Medical imaging writeups and automation tools.
+### 📫 Connect with Me
+* **LinkedIn:** [Theophilus Olayiwola](https://www.linkedin.com/in/theophilus-olayiwola-ab914a231/)
+* **Email:** [olayiwolatheophilusayomide@gmail.com](mailto:olayiwolatheophilusayomide@gmail.com)
 
-Agentic tooling.
+> *"Prioritizing clinical safety through algorithmic excellence."*
 
-🔧 Technologies & Tools I Work With
-
-Languages: Python, SQL (PostgreSQL)
-Libraries/Frameworks: pandas, NumPy, scikit-learn, BeautifulSoup, Llama-based agents, Gemini-based agents
-Data Tools: Jupyter, Git, Power BI, Excel and Google Spreadsheets
-Other: AI/ML research, agent design, clinical data interpretation, medical documentation
-
-🌍 Leadership & Community
-
-Publicity Lead, UCH Tech Society — coordinating communications and the upcoming executive handover.
-
-Passionate about mentoring and building tech communities around AI in healthcare.
-
-📚 Currently Learning
-
-Advanced AI agent workflows
-
-Nanobot engineering foundations and how AI integrates into molecular-scale robotics
-
-BeautifulSoup and web scraping
-
-Practical ML for medical applications
-
-🧠 Long-Term Vision
-
-To bridge the gap between clinical medicine, AI engineering, and emerging technologies like nanobot therapeutics — building solutions that redefine diagnostics, treatment, and patient care.
-
-🤝 Let’s Collaborate
-
-I’m open to collaborations on:
-
-Healthcare AI
-
-Data analytics
-
-Research automation
-
-Agent-based systems
-
-Medical education tools
-
-📫 How to Reach Me
-
-X (Twitter): @Dr_Layi
-
-LinkedIn: (https://www.linkedin.com/in/theophilus-olayiwola-ab914a231/)
-
-Email: (Olayiwolatheophilusayomide@gmail.com)
+---
