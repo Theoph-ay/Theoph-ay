@@ -26,7 +26,7 @@ I bridge the gap between clinical medicine and scalable Artificial Intelligence.
 
 ### 🧬 Featured Projects
 
-#### **[MedScribe AI](https://github.com/theophilus-olayiwola/medscribe-ai)**
+#### **[MedScribe AI](https://ai.studio/apps/drive/1lIfS5SCl0gpjNOxz8fhIvOSdkoiAU0QO)**
 *A multimodal medical assistant for real-time clinical documentation and decision support.*
 * **Tech:** LangChain, Google Gemini API, FastAPI.
 * **Impact:** Built for the Google/Kaggle Hackathon; streamlines EHR entry for clinicians.
@@ -41,12 +41,12 @@ I bridge the gap between clinical medicine and scalable Artificial Intelligence.
 
 ### 📚 Research & Mentorship
 * **Mentorship:** I serve as a **Python Mentor**, advocating for "Readability over Cleverness." I specialize in breaking down complex ML concepts for beginners using a **Logic-First** methodology.
-* **Global Health:** Actively involved in internationally funded research exploring how robotics and nanobots can transform cardiothoracic surgical outcomes.
+* **Global Health:** Actively involved in internationally funded research exploring how robotics and nanobots can transform Medical outcomes.
 
 ---
 
 ###  Creative Side
-When I'm not in the wards or the terminal, I write **atmospheric, character-driven horror**. I believe the discipline of storytelling improves the way we design user-centric AI agents.
+When I'm not in the wards or the terminal, I write **atmospheric, character-driven stories**. I believe the discipline of storytelling improves the way we design user-centric AI agents.
 
 ---
 
