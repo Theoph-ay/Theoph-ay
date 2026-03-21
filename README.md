@@ -36,6 +36,7 @@ I bridge the gap between clinical medicine and scalable Artificial Intelligence.
 *A specialized LLM agent designed to help medical students prep for boards.*
 * **Tech:** LangGraph, RAG (Retrieval-Augmented Generation), PubMed API integration.
 * **Logic:** Uses a "Logic First" approach to retrieve evidence-based answers.
+* [Click here to access NEXUS AI](http://nexus-ai-portal.vercel.app/)
 
 ---
 
